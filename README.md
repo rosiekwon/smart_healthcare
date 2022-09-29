@@ -8,7 +8,6 @@
    <img width="640" alt="Screen Shot 2022-09-29 at 12 30 25 AM" src="https://user-images.githubusercontent.com/76680071/192939466-e9068ecc-c34b-4511-b3fa-2bb894f093e3.png">
 
     * 췌장은 배속 가장 깊숙히 위치하기 때문에 그 앞에는 위나 소장 혹은 대장이 위치하는데 그 내부에는 공기나 음식물, 대변이 있고 이로 인해 초음파가 투과하기 어려운 경우가 많아 _CT영상_을 통해 분석해볼 예정이다. 
-  ![췌장암 CT] [https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hkn24.com%2Fnews%2FarticleView.html%3Fidxno%3D135261&psig=AOvVaw0GXoDQUeAECNRt-AEDcOJD&ust=1664511492717000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiNmtSSufoCFQAAAAAdAAAAABAQ](https://www.hkn24.com/news/photo/201408/135261_120745_3613.jpg)
-  
+  ![췌장암 CT]https://www.hkn24.com/news/photo/201408/135261_120745_3613.jpg 
 
 
