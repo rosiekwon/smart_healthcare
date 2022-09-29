@@ -7,7 +7,7 @@
 
  <img width="640" alt="Screen Shot 2022-09-29 at 12 30 25 AM" src="https://user-images.githubusercontent.com/76680071/192939466-e9068ecc-c34b-4511-b3fa-2bb894f093e3.png">
 
-* 췌장은 배속 가장 깊숙히 위치하기 때문에 그 앞에는 위나 소장 혹은 대장이 위치하는데 그 내부에는 공기나 음식물, 대변이 있고 이로 인해 초음파가 투과하기 어려운 경우가 많아 _CT영상_을 통해 분석해볼 예정이다.
+* 췌장은 배속 가장 깊숙히 위치하기 때문에 그 앞에는 위나 소장 혹은 대장이 위치하는데 그 내부에는 공기나 음식물, 대변이 있고 이로 인해 초음파가 투과하기 어려운 경우가 많아 **CT영상**을 통해 분석해볼 예정이다.
 
 <img width="569" alt="Screen Shot 2022-09-29 at 12 44 25 AM" src="https://user-images.githubusercontent.com/76680071/192940900-89a0d093-b8a7-4753-8000-c5e1d8fb14ad.png">
 
